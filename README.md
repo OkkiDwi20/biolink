@@ -169,7 +169,7 @@ The official Patch bundle provided by ReVanced Extended and the community
 
 ### v2.173.1 | 05 May 2023
 <details>
-
+&nbsp;&nbsp; 
 YouTube
 
 - Add <code>hide-live-chat-button</code> patch (for old layout)
