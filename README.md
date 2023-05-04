@@ -1,4 +1,4 @@
-<h2>English &nbsp;&nbsp;|&nbsp;&nbsp; [Indonesia](README_IN.md)</h2>
+<span style="font-size: larger; font-weight: bold;">English &nbsp;&nbsp;|&nbsp;&nbsp; [Indonesia](README_IN.md)</span>
 
 ## 🧩 Patches
 
