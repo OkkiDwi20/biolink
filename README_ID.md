@@ -1,4 +1,4 @@
-### 💬 &nbsp;&nbsp;[Inggris](README_EN.md) &nbsp;&nbsp;|&nbsp;&nbsp; Indonesia
+### 💬 &nbsp;&nbsp;Indonesia &nbsp;&nbsp;|&nbsp;&nbsp;[English](README_EN)
 
 ##
 
