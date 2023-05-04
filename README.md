@@ -1,4 +1,6 @@
-💬 Choose your language: English &nbsp;&nbsp;|&nbsp;&nbsp; [Indonesia](README_IN.md)
+### 💬 Choose your language: English &nbsp;&nbsp;|&nbsp;&nbsp; [Indonesia](README_IN.md)
+
+##
 
 <p align="center">
     <img src="https://github.com/inotia00/revanced-patches/blob/revanced-extended/src/main/resources/youtube/branding/afn-red/launchericon/xxxhdpi/ic_launcher_round.png" width="150"> &nbsp;&nbsp; &nbsp;&nbsp; 
