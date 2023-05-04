@@ -2,7 +2,7 @@
 
 The official Patch bundle provided by ReVanced Extended and the community
 
-> Built by Okki Dwi
+> Built by Okki Dwi using CLI
 
 ### [📦 `com.google.android.youtube`](https://play.google.com/store/apps/details?id=com.google.android.youtube)
 <details>
