@@ -1,147 +1,192 @@
-English &nbsp;&nbsp;|&nbsp;&nbsp; [Indonesia](README_IN.md)
+### 💬 &nbsp;&nbsp;Inggris &nbsp;&nbsp;|&nbsp;&nbsp; Indonesia
 
-## 🧩 Patch
+##
 
-Kumpulan Patch resmi yang disediakan oleh ReVanced Extended dan komunitas
+<p align="center">
+    <img src="https://github.com/inotia00/revanced-patches/blob/revanced-extended/src/main/resources/youtube/branding/afn-red/launchericon/xxxhdpi/ic_launcher_round.png" width="150"> &nbsp;&nbsp; &nbsp;&nbsp; 
+     <img src="https://github.com/inotia00/revanced-patches/blob/revanced-extended/src/main/resources/music/branding/afn-red/launchericon/xxxhdpi/ic_launcher_release.png" width="150">
+</p>
 
-> Dibangun oleh Okki Dwi
+<h1 align="center">🧩 Patches v2.173.1</h1>
+
+<div align="center">
+    
+### 📅 5 Mei 2023
+
+##  
+    
+</div> 
+
+## ℹ️ Tentang
+
+Bundle Patch resmi yang disediakan oleh ReVanced Extended dan komunitas.
+
+> Dibuat oleh Okki Dwi menggunakan CLI dari [kode sumber milik Inotia00](https://github.com/inotia00/revanced-patches)
+
+## ✨ Fitur
 
 ### [📦 `com.google.android.youtube`](https://play.google.com/store/apps/details?id=com.google.android.youtube)
 <details>
 
-| 💊 Patch | 📜 Deskripsi | 🏹 Versi Target |
+| 💊 Patch | 📜 Description | 🏹 Target Version |
 |:--------:|:--------------:|:-----------------:|
-| `bypass-ambient-mode-restrictions` | Melewati batasan mode ambient dalam mode penghemat baterai. | 18.16.39 |
-| `change-homepage` | Mengubah halaman beranda menjadi feed langganan. | 18.16.39 |
-| `custom-branding-icon-afn-blue` | Mengubah ikon peluncur YouTube menjadi Afn Blue. | 18.16.39 |
-| `custom-branding-icon-afn-red` | Mengubah ikon peluncur YouTube menjadi Afn Red. | 18.16.39 |
-| `custom-branding-icon-mmt` | Mengubah ikon peluncur YouTube menjadi MMT. | 18.16.39 |
-| `custom-branding-icon-revancify-blue` | Mengubah ikon peluncur YouTube menjadi Revancify Blue. | 18.16.39 |
-| `custom-branding-icon-revancify-red` | Mengubah ikon peluncur YouTube menjadi Revancify Red. | 18.16.39 |
-| `custom-branding-name` | Mengubah nama peluncur YouTube menjadi pilihan Anda (default ReVanced Extended). | 18.16.39 |
+| `bypass-ambient-mode-restrictions` | Lewati pembatasan mode ambient pada mode hemat daya. | 18.16.39 |
+| `change-homepage` | Mengubah halaman beranda menjadi umpan langganan. | 18.16.39 |
+| `custom-branding-icon-afn-red` | Mengubah ikon peluncur YouTube menjadi Afn Merah. | 18.16.39 |
+| `custom-branding-name` | Mengubah nama peluncur YouTube sesuai pilihan Anda (default menjadi ReVanced Extended). | 18.16.39 |
 | `custom-double-tap-length` | Menambahkan nilai 'double-tap to seek'. | 18.16.39 |
-| `custom-seekbar-color` | Mengubah warna seekbar. | 18.16.39 |
-| `custom-video-speed` | Menambahkan opsi kecepatan video yang lebih banyak. | 18.16.39 |
+| `custom-seekbar-color` | Mengubah warna bilah pencarian. | 18.16.39 |
+| `custom-video-speed` | Menambahkan lebih banyak opsi kecepatan video. | 18.16.39 |
 | `default-video-quality` | Menambahkan kemampuan untuk mengatur pengaturan kualitas video default. | 18.16.39 |
 | `default-video-speed` | Menambahkan kemampuan untuk mengatur pengaturan kecepatan video default. | 18.16.39 |
-| `disable-haptic-feedback` | Menonaktifkan umpan balik haptic saat menggesek. | 18.16.39 |
-| `disable-landscape-mode` | Menonaktifkan mode landscape saat memasuki layar penuh. | 18.16.39 |
-| `disable-quic-protocol` | Menonaktifkan protokol QUIC CronetEngine. | 18.16.39 |
-| `disable-startup-shorts-player` | Menonaktifkan memutar YouTube Shorts saat membuka YouTube. | 18.16.39 |
-| `enable-external-browser` | Buka url di luar aplikasi dalam browser eksternal. | 18.16.39 |
-| `enable-minimized-playback` | Mengaktifkan pemutaran minim dan latar belakang. | 18.16.39 |
-| `enable-old-quality-layout` | Mengaktifkan menu layar flyout kualitas asli. | 18.16.39 |
-| `enable-open-links-directly` | Melompati URL pengalihan ke tautan eksternal. | 18.16.39 |
-| `enable-seekbar-tapping` | Enables tap-to-seek on the seekbar of the video player. | 18.16.39 |
-| `enable-tablet-miniplayer` | Enables the tablet mini player layout. | 18.16.39 |
-| `enable-tablet-navigation-bar` | Enables the tablet navigation bar. | 18.16.39 |
-| `enable-timestamps-speed` | Add the current video speed in brackets next to the current time. | 18.16.39 |
-| `enable-wide-searchbar` | Replaces the search icon with a wide search bar. This will hide the YouTube logo when active. | 18.16.39 |
-| `force-hide-player-button-background` | Force removes the background from the video player buttons. | 18.16.39 |
-| `force-premium-heading` | Forces premium heading on the home screen. | 18.16.39 |
-| `force-vp9-codec` | Forces the VP9 codec for videos. | 18.16.39 |
-| `header-switch` | Add switch to change header. | 18.16.39 |
-| `hide-account-menu` | Hide account menu elements. | 18.16.39 |
-| `hide-auto-captions` | Hide captions from being automatically enabled. | 18.16.39 |
-| `hide-auto-player-popup-panels` | Hide automatic popup panels (playlist or live chat) on video player. | 18.16.39 |
-| `hide-autoplay-button` | Hides the autoplay button in the video player. | 18.16.39 |
-| `hide-autoplay-preview` | Hides the autoplay preview container in the fullscreen. | 18.16.39 |
-| `hide-button-container` | Adds the options to hide action buttons under a video. | 18.16.39 |
-| `hide-captions-button` | Hides the captions button in the video player. | 18.16.39 |
-| `hide-cast-button` | Hides the cast button in the video player. | 18.16.39 |
-| `hide-category-bar` | Hide the category bar at the top of the feed and at the top of related videos. | 18.16.39 |
-| `hide-channel-avatar-section` | Hides the channel avatar section of the subscription feed. | 18.16.39 |
-| `hide-channel-watermark` | Hides creator's watermarks on videos. | 18.16.39 |
-| `hide-collapse-button` | Hides the collapse button in the video player. | 18.16.39 |
-| `hide-comment-component` | Adds options to hide comment component under a video. | 18.16.39 |
-| `hide-crowdfunding-box` | Hides the crowdfunding box between the player and video description. | 18.16.39 |
-| `hide-double-tap-overlay-filter` | Remove the double tap dark filter layer. | 18.16.39 |
-| `hide-email-address` | Hides the email address(handle) in the account switcher. | 18.16.39 |
-| `hide-endscreen-cards` | Hides the suggested video cards at the end of a video in fullscreen. | 18.16.39 |
-| `hide-endscreen-overlay` | Hide endscreen overlay on swipe controls. | 18.16.39 |
-| `hide-filmstrip-overlay` | Hide flimstrip overlay on swipe controls. | 18.16.39 |
-| `hide-floating-microphone` | Hide the floating microphone button above the keyboard. | 18.16.39 |
-| `hide-flyout-panel` | Adds options to hide player settings flyout panel. | 18.16.39 |
-| `hide-fullscreen-panels` | Hides video description and comments panel in fullscreen view. | 18.16.39 |
-| `hide-general-ads` | Removes general ads. | 18.16.39 |
-| `hide-get-premium` | Hides the YouTube Premium promotion banner between the player and video description. | 18.16.39 |
-| `hide-info-cards` | Hides info-cards in videos. | 18.16.39 |
-| `hide-live-chat-button` | Hides the live chat button in the video player (for old layout). | 18.16.39 |
-| `hide-mix-playlists` | Removes mix playlists from home feed and video player. | 18.16.39 |
-| `hide-music-button` | Hides the YouTube Music button in the video player. | 18.16.39 |
-| `hide-navigation-buttons` | Adds options to hide or change navigation buttons. | 18.16.39 |
-| `hide-navigation-label` | Hide navigation bar labels. | 18.16.39 |
-| `hide-pip-notification` | Disable pip notification when you first launch pip mode. | 18.16.39 |
-| `hide-player-button-background` | Hide player button background. | 18.16.39 |
-| `hide-player-overlay-filter` | Remove the dark filter layer from the player's background. | 18.16.39 |
-| `hide-previous-next-button` | Hides the previous and next button in the player controller. | 18.16.39 |
-| `hide-quick-actions` | Adds the options to hide quick actions components in the fullscreen. | 18.16.39 |
-| `hide-search-terms` | Hide trending searches and search history in the search bar. | 18.16.39 |
-| `hide-seekbar` | Hides the seekbar. | 18.16.39 |
-| `hide-shorts-component` | Hides other Shorts components. | 18.16.39 |
-| `hide-shorts-navbar` | Hide navigation bar when playing shorts. | 18.16.39 |
-| `hide-snackbar` | Hides the snackbar action popup. | 18.16.39 |
-| `hide-stories` | Hides YouTube Stories shelf on the feed. | 18.16.39 |
-| `hide-suggested-actions` | Hide the suggested actions bar inside the player. | 18.16.39 |
-| `hide-time-stamp` | Hides timestamp in video player. | 18.16.39 |
-| `hide-tooltip-content` | Hides the tooltip box that appears on first install. | 18.16.39 |
-| `hide-video-ads` | Removes ads in the video player. | 18.16.39 |
-| `layout-switch` | Tricks the dpi to use some tablet/phone layouts. | 18.16.39 |
-| `materialyou` | Enables MaterialYou theme for Android 12+ | 18.16.39 |
-| `microg-support` | Allows ReVanced to run without root and under a different package name with MicroG. | 18.16.39 |
-| `optimize-resource` | Removes duplicate resources from YouTube. | 18.16.39 |
-| `overlay-buttons` | Add overlay buttons for ReVanced Extended. | 18.16.39 |
-| `patch-options` | Create an options.toml file. | all |
-| `protobuf-spoof` | Spoofs the protobuf to prevent playback issues. | 18.16.39 |
-| `return-youtube-dislike` | Shows the dislike count of videos using the Return YouTube Dislike API. | 18.16.39 |
-| `sponsorblock` | Integrates SponsorBlock which allows skipping video segments such as sponsored content. | 18.16.39 |
-| `spoof-app-version` | Tricks YouTube into thinking, you are running an older version of the app. One of the side effects also includes restoring the old UI. | 18.16.39 |
-| `swipe-controls` | Adds volume and brightness swipe controls. | 18.16.39 |
-| `theme` | Applies a custom theme (default: amoled). | 18.16.39 |
-| `translations` | Add Crowdin translations for YouTube. | 18.16.39 |
+| `disable-haptic-feedback` | Nonaktifkan umpan balik haptik saat menggesekkan layar. | 18.16.39 |
+| `disable-landscape-mode` | Nonaktifkan mode lanskap saat masuk ke mode layar penuh. | 18.16.39 |
+| `disable-quic-protocol` | Nonaktifkan protokol QUIC CronetEngine. | 18.16.39 |
+| `disable-startup-shorts-player` | Menonaktifkan pemutaran YouTube Shorts saat meluncurkan YouTube. | 18.16.39 |
+| `enable-external-browser` | Buka URL di luar aplikasi pada browser eksternal. | 18.16.39 |
+| `enable-minimized-playback` | Mengaktifkan pemutaran yang diminimalkan dan latar belakang. | 18.16.39 |
+| `enable-old-quality-layout` | Mengaktifkan menu flyout kualitas asli. | 18.16.39 |
+| `enable-open-links-directly` | Melewati URL pengalihan ke tautan eksternal. | 18.16.39 |
+| `enable-seekbar-tapping` | Mengaktifkan ketuk untuk mencari pada bilah pencarian pemutar video. | 18.16.39 |
+| `enable-tablet-miniplayer` | Mengaktifkan tata letak pemutar mini. | 18.16.39 | 
+| `enable-tablet-navigation-bar` | Mengaktifkan bilah navigasi tablet. | 18.16.39 |
+| `enable-timestamps-speed` | Menambahkan kecepatan video saat ini dalam tanda kurung di samping waktu saat ini. | 18.16.39 |
+| `enable-wide-searchbar` | Mengganti ikon pencarian dengan bilah pencarian yang lebih lebar. Ini akan menyembunyikan logo YouTube saat aktif. | 18.16.39 |
+| `force-hide-player-button-background` | Memaksa menghapus latar belakang dari tombol pemutar video. | 18.16.39 |
+| `force-premium-heading` | Memaksa judul premium di layar utama. | 18.16.39 |
+| `force-vp9-codec` | Memaksa codec VP9 untuk video. | 18.16.39 |
+| `header-switch` | Menambahkan saklar untuk mengubah header. | 18.16.39 |
+| `hide-account-menu` | Menyembunyikan elemen menu akun. | 18.16.39 |
+| `hide-auto-captions` | Menyembunyikan keterangan dari diaktifkan secara otomatis. | 18.16.39 |
+| `hide-auto-player-popup-panels` | Menyembunyikan panel popup otomatis (daftar putar atau obrolan langsung) pada pemutar video. | 18.16.39 |
+| `hide-autoplay-button` | Menyembunyikan tombol autoplay pada pemutar video. | 18.16.39 |
+| `hide-autoplay-preview` | Menyembunyikan kontainer pratinjau autoplay dalam layar penuh. | 18.16.39 |
+| `hide-button-container` | Menambahkan opsi untuk menyembunyikan tombol tindakan di bawah video. | 18.16.39 |
+| `hide-captions-button` | Menyembunyikan tombol keterangan pada pemutar video. | 18.16.39 |
+| `hide-cast-button` | Menyembunyikan tombol cast pada pemutar video. | 18.16.39 |
+| `hide-category-bar` | Menyembunyikan bilah kategori di bagian atas umpan dan di bagian atas video terkait. | 18.16.39 |
+| `hide-channel-avatar-section` | Menyembunyikan bagian avatar saluran pada umpan langganan. | 18.16.39 |
+| `hide-channel-watermark` | Menyembunyikan watermark kreator pada video. | 18.16.39 |
+| `hide-collapse-button` | Menyembunyikan tombol kolaps pada pemutar video. | 18.16.39 |
+| `hide-comment-component` | Menambahkan opsi untuk menyembunyikan komponen komentar di bawah video. | 18.16.39 |
+| `hide-crowdfunding-box` | Menyembunyikan kotak crowdfunding antara pemutar dan deskripsi video. | 18.16.39 |
+| `hide-double-tap-overlay-filter` | Menghapus lapisan filter gelap ketukan ganda. | 18.16.39 |
+| `hide-email-address` | Menyembunyikan alamat email (handle) di pemutar akun. | 18.16.39 |
+| `hide-endscreen-cards` | Menyembunyikan kartu video yang disarankan pada akhir video dalam tampilan layar penuh. | 18.16.39 |
+| `hide-endscreen-overlay` | Menyembunyikan tampilan layar akhir pada kontrol swipe. | 18.16.39 |
+| `hide-filmstrip-overlay` | Menyembunyikan tampilan overlay flimstrip pada kontrol swipe. | 18.16.39 |
+| `hide-floating-microphone` | Menyembunyikan tombol mikrofon mengambang di atas keyboard. | 18.16.39 |
+| `hide-flyout-panel` | Menambahkan opsi untuk menyembunyikan panel pengaturan pemutar flyout. | 18.16.39 |
+| `hide-fullscreen-panels` | Menyembunyikan deskripsi video dan panel komentar dalam tampilan layar penuh. | 18.16.39 |
+| `hide-general-ads` | Menghapus iklan umum. | 18.16.39 |
+| `hide-get-premium` | Menyembunyikan banner promosi YouTube Premium di antara pemutar dan deskripsi video. | 18.16.39 |
+| `hide-info-cards` | Menyembunyikan kartu info dalam video. | 18.16.39 |
+| `hide-live-chat-button` | Menyembunyikan tombol obrolan langsung di pemutar video (untuk tata letak lama). | 18.16.39 |
+| `hide-mix-playlists` | Menghapus daftar putar campuran dari umpan beranda dan pemutar video. | 18.16.39 |
+| `hide-music-button` | Menyembunyikan tombol YouTube Music di pemutar video. | 18.16.39 |
+| `hide-navigation-buttons` | Menambahkan opsi untuk menyembunyikan atau mengubah tombol navigasi. | 18.16.39 |
+| `hide-navigation-label` | Menyembunyikan label bilah navigasi. | 18.16.39 |
+| `hide-pip-notification` | Menonaktifkan notifikasi pip saat pertama kali meluncurkan mode pip. | 18.16.39 |
+| `hide-player-button-background` | Menyembunyikan latar belakang tombol pemutar. | 18.16.39 |
+| `hide-player-overlay-filter` | Menghapus lapisan filter gelap dari latar belakang pemutar. | 18.16.39 |
+| `hide-previous-next-button` | Menyembunyikan tombol sebelumnya dan berikutnya dalam pengontrol pemutar. | 18.16.39 |
+| `hide-quick-actions` | Menambahkan opsi untuk menyembunyikan komponen tindakan cepat dalam tampilan layar penuh. | 18.16.39 |
+| `hide-search-terms` | Menyembunyikan pencarian populer dan riwayat pencarian di bilah pencarian. | 18.16.39 |
+| `hide-seekbar` | Menyembunyikan seekbar. | 18.16.39 |
+| `hide-shorts-component` | Menyembunyikan komponen Shorts lainnya. | 18.16.39 |
+| `hide-shorts-navbar` | Menyembunyikan bilah navigasi saat memutar Shorts. | 18.16.39 |
+| `hide-snackbar` | Menyembunyikan popup tindakan snackbar. | 18.16.39 |
+| `hide-stories` | Menyembunyikan rak YouTube Stories pada umpan. | 18.16.39 |
+| `hide-suggested-actions` | Menyembunyikan bilah tindakan yang disarankan di dalam pemutar. | 18.16.39 |
+| `hide-time-stamp` | Menyembunyikan timestamp di pemutar video. | 18.16.39 |
+| `hide-tooltip-content` | Menyembunyikan kotak tooltip yang muncul pada instalasi pertama. | 18.16.39 |
+| `hide-video-ads` | Menghapus iklan di pemutar video. | 18.16.39 |
+| `layout-switch` | Memalsukan dpi untuk menggunakan beberapa tata letak tablet/telepon. | 18.16.39 |
+| `materialyou` | Mengaktifkan tema MaterialYou untuk Android 12+. | 18.16.39 |
+| `microg-support` | Memungkinkan ReVanced untuk berjalan tanpa root dan di bawah nama paket yang berbeda dengan MicroG. | 18.16.39 |
+| `optimize-resource` | Menghapus sumber daya duplikat dari YouTube. | 18.16.39 |
+| `overlay-buttons` | Menambahkan tombol overlay untuk ReVanced Extended. | 18.16.39 |
+| `patch-options` | Membuat file options.toml. | semua |
+| `protobuf-spoof` | Memalsukan protobuf untuk mencegah masalah pemutaran. | 18.16.39 |
+| `return-youtube-dislike` | Menampilkan jumlah dislike video menggunakan API Return YouTube Dislike. | 18.16.39 |
+| `sponsorblock` | Mengintegrasikan SponsorBlock yang memungkinkan untuk melewati segmen video seperti konten sponsor. | 18.16.39 |
+| `spoof-app-version` | Memalsukan YouTube agar mengira Anda menjalankan versi aplikasi yang lebih lama. Salah satu efek sampingnya juga termasuk mengembalikan antarmuka lama. | 18.16.39 |
+| `swipe-controls` | Menambahkan kontrol gesek volume dan kecerahan. | 18.16.39 |
+| `theme` | Mengaplikasikan tema kustom (default: amoled). | 18.16.39 |
+| `translations` | Menambahkan terjemahan Crowdin untuk YouTube. | 18.16.39 |
 </details>
 
 ### [📦 `com.google.android.apps.youtube.music`](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music)
 <details>
 
-| 💊 Patch | 📜 Description | 🏹 Target Version |
+| 💊 Patch | 📜 Deskripsi | 🏹 Versi Target |
 |:--------:|:--------------:|:-----------------:|
-| `amoled` | Applies pure black theme in flyout panels. | all |
-| `background-play` | Enables playing music in the background. | all |
-| `bitrate-default-value` | Set the audio quality to 'Always High' when you first install the app. | all |
-| `certificate-spoof` | Spoofs the YouTube Music certificate for Android Auto. | all |
-| `custom-branding-music-afn-blue` | Changes the YouTube Music launcher icon to Afn Blue. | all |
-| `custom-branding-music-afn-red` | Changes the YouTube Music launcher icon to Afn Red. | all |
-| `custom-branding-music-mmt` | Changes the YouTube Music launcher icon to MMT. | all |
-| `custom-branding-music-name` | Changes the Music launcher name to your choice (defaults to YTM Extended, ReVanced Music Extended). | all |
-| `custom-branding-music-revancify-blue` | Changes the YouTube Music launcher icon to Revancify Blue. | all |
-| `custom-branding-music-revancify-red` | Changes the YouTube Music launcher icon to Revancify Red. | all |
-| `disable-auto-captions` | Disable forced captions from automatically enabling in video player. | all |
-| `enable-black-navbar` | Sets the navigation bar color to black. | all |
-| `enable-color-match-player` | Matches the fullscreen player color with the minimized one. | all |
-| `enable-compact-dialog` | Enable compact dialog on phone. | all |
-| `enable-force-minimized-player` | Permanently keep player minimized even if another track is played. | all |
-| `enable-force-shuffle` | Enable force shuffle even if another track is played. | all |
-| `enable-landscape-mode` | Enables entry into landscape mode by screen rotation on the phone. | all |
-| `enable-opus-codec` | Enable opus codec when playing audio. | all |
-| `enable-zen-mode` | Adds a grey tint to the video player to reduce eye strain. | all |
-| `exclusive-audio-playback` | Enables the option to play music without video. | all |
-| `hide-button-shelf` | Hides the button shelf from homepage and explorer. | all |
-| `hide-carousel-shelf` | Hides the carousel shelf from homepage and explorer. | all |
-| `hide-category-bar` | Hides the music category bar at the top of the homepage. | all |
-| `hide-get-premium` | Removes all "Get Premium" evidences from the avatar menu. | all |
-| `hide-music-ads` | Removes ads in the music player. | all |
-| `hide-music-cast-button` | Hides the cast button in the video player and header. | all |
-| `hide-new-playlist` | Hide the New Playlist button in the Library tab. | all |
-| `hide-playlist-card` | Hides the playlist card from homepage. | all |
-| `hide-taste-builder` | Removes the "Tell us which artists you like" card from the home screen. | all |
-| `hide-upgrade-button` | Remove upgrade tab from pivot bar, hide upgrade banner from homepage. | all |
-| `minimized-playback-music` | Enables minimized playback on Kids music. | all |
-| `music-microg-support` | Allows ReVanced Music to run without root and under a different package name with MicroG. | all |
-| `optimize-resource-music` | Remove unnecessary resources. | all |
-| `patch-options` | Create an options.toml file. | all |
-| `remember-video-quality` | Save the video quality value whenever you change the video quality. | all |
-| `share-button-hook` | Replace share button with external download button or sleep timer dialog. | all |
-| `spoof-app-version` | Spoof the YouTube Music client version. | all |
-| `translations-music` | Add Crowdin translations for YouTube Music. | all |
+| `amoled` | Mengaplikasikan tema hitam murni pada panel flyout. | semua |
+| `background-play` | Memungkinkan pemutaran musik di latar belakang. | semua |
+| `bitrate-default-value` | Menetapkan kualitas audio ke 'Selalu Tinggi' saat Anda pertama kali menginstal aplikasi. | semua |
+| `certificate-spoof` | Memalsukan sertifikat YouTube Music untuk Android Auto. | semua |
+| `custom-branding-music-afn-red` | Mengubah ikon peluncur YouTube Music menjadi Afn Red. | semua |
+| `custom-branding-music-name` | Mengubah nama peluncur Music menjadi pilihan Anda (default menjadi YTM Extended, ReVanced Music Extended). | semua |
+| `disable-auto-captions` | Menonaktifkan tampilan teks otomatis yang dipaksa untuk video. | semua |
+| `enable-black-navbar` | Mengatur warna bilah navigasi menjadi hitam. | semua |
+| `enable-color-match-player` | Menyesuaikan warna pemutar layar penuh dengan pemutar layar kecil. | semua |
+| `enable-compact-dialog` | Mengaktifkan dialog kompak di ponsel. | semua |
+| `enable-force-minimized-player` | Menjaga pemutar tetap diminimalkan bahkan jika lagu lain diputar. | semua |
+| `enable-force-shuffle` | Mengaktifkan pengacakan paksa bahkan jika lagu lain diputar. | semua |
+| `enable-landscape-mode` | Mengaktifkan masuk ke dalam mode lanskap dengan rotasi layar di ponsel. | semua |
+| `enable-opus-codec` | Mengaktifkan codec opus saat memutar audio. | semua |
+| `enable-zen-mode` | Menambahkan pengaburan abu-abu pada pemutar video untuk mengurangi ketegangan mata. | semua |
+| `exclusive-audio-playback` | Mengaktifkan opsi untuk memutar musik tanpa video. | semua |
+| `hide-button-shelf` | Menyembunyikan rak tombol dari halaman beranda dan penjelajah. | semua |
+| `hide-carousel-shelf` | Menyembunyikan rak karusel dari halaman beranda dan penjelajah. | semua |
+| `hide-category-bar` | Menyembunyikan bilah kategori musik di bagian atas halaman beranda. | semua |
+| `hide-get-premium` | Menghapus semua tanda "Dapatkan Premium" dari menu avatar. | semua |
+| `hide-music-ads` | Menghapus iklan di pemutar musik. | semua |
+| `hide-music-cast-button` | Menyembunyikan tombol cast di pemutar video dan header. | semua |
+| `hide-new-playlist` | Menyembunyikan tombol Buat Playlist Baru di tab Perpustakaan. | semua |
+| `hide-playlist-card` | Menyembunyikan kartu playlist dari halaman beranda. | semua |
+| `hide-taste-builder` | Menghapus kartu "Katakan pada kami artis mana yang Anda sukai" dari layar beranda. | semua |
+| `hide-upgrade-button` | Hapus tab upgrade dari bilah pivot, sembunyikan banner upgrade dari halaman beranda. | semua |
+| `minimized-playback-music` | Mengaktifkan pemutaran minimal pada musik Anak. | semua |
+| `music-microg-support` | Memungkinkan ReVanced Music berjalan tanpa root dan dengan nama paket yang berbeda dengan MicroG. | semua |
+| `optimize-resource-music` | Menghapus sumber daya yang tidak perlu. | semua |
+| `patch-options` | Membuat file options.toml. | semua |
+| `remember-video-quality` | Menyimpan nilai kualitas video setiap kali Anda mengubah kualitas video. | semua |
+| `share-button-hook` | Mengganti tombol bagikan dengan tombol unduh eksternal atau dialog pengatur waktu tidur. | semua |
+| `spoof-app-version` | Meniru versi klien YouTube Music. | semua |
+| `translations-music` | Menambahkan terjemahan Crowdin untuk YouTube Music. | semua |
+</details>
+
+## 📜 Catatan Perubahan
+
+### v2.173.1 - 5 Mei 2023
+<details>
+    
+YouTube
+
+- Tambahkan perbaikan <code>hide-live-chat-button</code> (untuk tata letak lama)
+- Tambahkan perbaikan <code>hide-navigation-label</code>
+- Hapus perbaikan <code>channel-whitelist</code>
+- Fitur (custom-branding-icon-afn-red): ubah jalur ikon
+- Fitur (hide-navigation-buttons): gabungkan perbaikan <code>hide-create-button</code>, <code>hide-home-button</code>, <code>hide-shorts-button</code>, <code>hide-subscriptions-button</code>, <code>switch-create-notification</code> menjadi satu
+- Fitur (return-youtube-dislike): dukungan untuk tata letak lama
+- Perbaikan (custom-branding-icon-mmt): gunakan deskripsi perbaikan yang lebih baik
+- Perbaikan (hide-general-ads): <code>Sembunyikan kartu album</code> tidak menyembunyikan beberapa kartu album
+- Perbaikan (sponsorblock): tombol lewati di lokasi yang salah saat layar penuh dan komentar terlihat
+- Refaktor (settings): ubah nilai default
+- Refaktor (hide-player-button-background): gunakan metode perbaikan yang lebih baik
+- Pembaruan terjemahan Crowdin <code>Arab</code>, <code>Bengali</code>, <code>Bulgaria</code>, <code>Chinese Simplified</code>, <code>French</code>, <code>German</code>, <code>Greek</code>, <code>Indonesia</code>, <code>Italian</code>, <code>Japanese</code>, <code>Korean</code>, <code>Polandia</code>, <code>Rusia</code>, <code>Spanyol</code>, <code>Turki</code>, <code>Ukraina</code>, <code>Vietnam</code>
+
+YouTube Music
+
+- Tambahkan perbaikan <code>custom-branding-music-name</code>
+- Fitur (custom-branding-music-afn-red): ubah jalur ikon
+- Perbaikan (custom-branding-music-mmt): gunakan deskripsi perbaikan yang lebih baik
+- Perbaikan (enable-black-navbar): tidak dapat dimatikan ketika perbaikan amoled termasuk
+- Perbaikan (share-button-hook): ubah nama paket pengunduh default
+- Pembaruan terjemahan Crowdin <code>Brasil</code>, <code>Indonesia</code>, <code>Korea</code>
+    
+Lain-Lain
+  
+- Hentikan dukungan untuk beberapa versi YouTube
 </details>
