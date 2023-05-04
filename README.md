@@ -1,4 +1,4 @@
-### 💬 &nbsp;&nbsp;English &nbsp;&nbsp;|&nbsp;&nbsp; [Indonesia](README.md)
+### 💬 &nbsp;&nbsp; [Indonesia](README.md)&nbsp;&nbsp;English &nbsp;&nbsp;|
 
 ##
 
@@ -195,5 +195,6 @@ YouTube Music
 - Crowdin translation update <code>Brazilian</code>, <code>Indonesian</code>, <code>Korean</code>
     
 ETC
+    
 - Drop support for some YouTube versions
 </details>
