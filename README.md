@@ -167,7 +167,7 @@ The official Patch bundle provided by ReVanced Extended and the community
 
 ## 📜 Changelogs
 
-### v2.173.1 | 05 May 2023
+### v2.173.1 - 05 May 2023
 <details>
     
 YouTube
