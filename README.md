@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/inotia00/revanced-patches/blob/revanced-extended/src/main/resources/youtube/branding/afn-red/launchericon/xxxhdpi/ic_launcher_round.png" width="150"> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; 
+    <img src="https://github.com/inotia00/revanced-patches/blob/revanced-extended/src/main/resources/youtube/branding/afn-red/launchericon/xxxhdpi/ic_launcher_round.png" width="150"> &nbsp;&nbsp; &nbsp;&nbsp; 
      <img src="https://github.com/inotia00/revanced-patches/blob/revanced-extended/src/main/resources/music/branding/afn-red/launchericon/xxxhdpi/ic_launcher_release.png" width="150">
 </p>
 
@@ -9,7 +9,7 @@
     
 ### 📅 5 May 2023
     
-English &nbsp;&nbsp;|&nbsp;&nbsp; [Indonesia](README_IN.md) &nbsp;&nbsp;|&nbsp;&nbsp; [简体中文](README_ZH-CN.md) &nbsp;&nbsp;|&nbsp;&nbsp; [繁體中文](README_ZH-TW.md) &nbsp;&nbsp;|&nbsp;&nbsp; [日本語](README_JA.md)
+English &nbsp;&nbsp;|&nbsp;&nbsp; [Indonesia](README_IN.md)
 
 ##
     
