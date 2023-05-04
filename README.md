@@ -1,4 +1,4 @@
-### 💬 Choose your language: English &nbsp;&nbsp;|&nbsp;&nbsp; [Indonesia](README_IN.md)
+### 💬 English &nbsp;&nbsp;|&nbsp;&nbsp; [Indonesia](README_IN.md)
 
 ##
 
