@@ -1,4 +1,4 @@
-### 💬 &nbsp;&nbsp; [Indonesia](README.md)&nbsp;&nbsp;English &nbsp;&nbsp;|
+### 💬 &nbsp;&nbsp; [Indonesia](README.md)|&nbsp;&nbsp;English &nbsp;&nbsp;
 
 ##
 
