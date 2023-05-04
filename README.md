@@ -3,9 +3,17 @@
      <img src="https://github.com/inotia00/revanced-patches/blob/revanced-extended/src/main/resources/music/branding/afn-red/launchericon/xxxhdpi/ic_launcher_release.png" width="150">
 </p>
 
-## 🧩 Patches v2.173.1
+<h1 align="center">🧩 Patches v2.173.1</h1>
 
-## 📅 5 May 2023
+<div align="center">
+    
+### 📅 5 May 2023
+    
+English &nbsp;&nbsp;|&nbsp;&nbsp; [Indonesia](README_IN.md) &nbsp;&nbsp;|&nbsp;&nbsp; [简体中文](README_ZH-CN.md) &nbsp;&nbsp;|&nbsp;&nbsp; [繁體中文](README_ZH-TW.md) &nbsp;&nbsp;|&nbsp;&nbsp; [日本語](README_JA.md)
+
+##
+    
+</div>    
 
 The official Patch bundle provided by ReVanced Extended and the community
 
