@@ -21,7 +21,7 @@
 
 The official Patch bundle provided by ReVanced Extended and the community
 
-> Built by Okki Dwi using CLI
+> Built by Okki Dwi using CLI from [Inotia00's source code](https://github.com/inotia00/revanced-patches)
 
 ## ✨ Features
 
