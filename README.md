@@ -1,8 +1,10 @@
+English &nbsp;&nbsp;|&nbsp;&nbsp; [Indonesia](README_IN.md)
+
 ## 🧩 Patches
 
-The official Patch bundle provided by ReVanced and the community.
+The official Patch bundle provided by ReVanced Extended and the community.
 
-> Looking for the JSON variant of this? [Click here](patches.json).
+> Built by Okki Dwi
 
 ### [📦 `com.google.android.youtube`](https://play.google.com/store/apps/details?id=com.google.android.youtube)
 <details>
@@ -143,39 +145,3 @@ The official Patch bundle provided by ReVanced and the community.
 | `spoof-app-version` | Spoof the YouTube Music client version. | all |
 | `translations-music` | Add Crowdin translations for YouTube Music. | all |
 </details>
-
-
-
-## 📝 JSON Format
-
-This section explains the JSON format for the [patches.json](patches.json) file.
-
-Example:
-
-```json
-[
-  {
-    "name": "remember-video-quality",
-    "description": "Adds the ability to remember the video quality you chose in the video quality flyout.",
-    "version": "0.0.1",
-    "excluded": false,
-    "options": [],
-    "dependencies": [
-      "integrations",
-      "video-id-hook"
-    ],
-    "compatiblePackages": [
-      {
-        "name": "com.google.android.youtube",
-        "versions": [
-          "18.12.35",
-          "18.13.38",
-          "18.14.41",
-          "18.15.40",
-          "18.16.39"
-        ]
-      }
-    ]
-  }
-]
-```
