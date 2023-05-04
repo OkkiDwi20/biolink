@@ -1,10 +1,10 @@
-## 🧩 Patches
+## 🧩 Patches | v2.171.4
 
 The official Patch bundle provided by ReVanced Extended and the community
 
 > Built by Okki Dwi
 
-### [📦 `com.google.android.youtube`](https://play.google.com/store/apps/details?id=com.google.android.youtube)
+### [📦 `com.google.android.youtube`](https://play.google.com/store/apps/details?id=com.google.android.youtube) | YouTube ReVanced Extended
 <details>
 
 | 💊 Patch | 📜 Description | 🏹 Target Version |
@@ -99,7 +99,7 @@ The official Patch bundle provided by ReVanced Extended and the community
 | `translations` | Add Crowdin translations for YouTube. | 18.16.39 |
 </details>
 
-### [📦 `com.google.android.apps.youtube.music`](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music)
+### [📦 `com.google.android.apps.youtube.music`](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music)  | YouTube Music ReVanced Extended
 <details>
 
 | 💊 Patch | 📜 Description | 🏹 Target Version |
