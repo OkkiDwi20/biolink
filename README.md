@@ -1,8 +1,8 @@
-English &nbsp;&nbsp;|&nbsp;&nbsp; [Indonesia](README_IN.md)
+<h2>English &nbsp;&nbsp;|&nbsp;&nbsp; [Indonesia](README_IN.md)</h2>
 
 ## 🧩 Patches
 
-The official Patch bundle provided by ReVanced Extended and the community.
+The official Patch bundle provided by ReVanced Extended and the community
 
 > Built by Okki Dwi
 
