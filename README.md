@@ -14,12 +14,16 @@
 ### 📅 5 May 2023
 
 ##  
+    
+</div> 
+
+## ℹ️ About
 
 The official Patch bundle provided by ReVanced Extended and the community
 
 > Built by Okki Dwi using CLI
-    
-</div>  
+
+## ✨ Features
 
 ### [📦 `com.google.android.youtube`](https://play.google.com/store/apps/details?id=com.google.android.youtube)
 <details>
@@ -160,3 +164,27 @@ The official Patch bundle provided by ReVanced Extended and the community
 | `spoof-app-version` | Spoof the YouTube Music client version. | all |
 | `translations-music` | Add Crowdin translations for YouTube Music. | all |
 </details>
+
+## 📜 Changelogs
+
+### v2.173.1 | 05 May 2023
+
+YouTube
+
+- Add custom-branding-icon-revancify-red patch
+- Add custom-branding-icon-revancify-blue patch
+- Add hide-live-chat-button patch (for old layout)
+- Add hide-navigation-label patch inotia00/ReVanced_Extended#894
+- Remove channel-whitelist patch inotia00/ReVanced_Extended#918
+- Remove custom-branding-icon-manual patch (as it is not an ideal method)
+- Remove custom-branding-icon-revancify patch
+- Feat(custom-branding-icon-afn-red): change icon path
+- Feat(custom-branding-icon-afn-blue): change icon path
+- Feat(hide-navigation-buttons): combined hide-create-button, hide-home-button, hide-shorts-button, hide-subscriptions-button, switch-create-notification patches into one
+- Feat(return-youtube-dislike): add support old layout
+- Fix(custom-branding-icon-mmt): use better patch description
+- Fix(hide-general-ads): Hide album card doesn't hide some album cards
+- Fix(sponsorblock): skip button in wrong location when fullscreen and comments visible
+- Refactor(settings): change default values
+- Refactor(hide-player-button-background): apply better patch method
+- Crowdin translation update <code>Arabic, Bengali, Bulgarian, Chinese Simplified, French, German, Greek, Indonesian, Italian, Japanese, Korean, Polish, Russian, Spanish, Turkish, Ukrainian, Vietnamese</code>
