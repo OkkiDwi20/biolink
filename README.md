@@ -1,5 +1,3 @@
-English &nbsp;&nbsp;|&nbsp;&nbsp; [Indonesia](README_IN.md)
-
 ## 🧩 Patches
 
 The official Patch bundle provided by ReVanced Extended and the community
