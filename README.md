@@ -1,4 +1,4 @@
-## 🧩 Patches | v2.171.4
+## 🧩 Patches v2.171.4
 
 The official Patch bundle provided by ReVanced Extended and the community
 
