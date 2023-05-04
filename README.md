@@ -1,3 +1,8 @@
+<p align="center">
+    <img src="https://github.com/inotia00/revanced-patches/blob/revanced-extended/src/main/resources/youtube/branding/afn-red/launchericon/xxxhdpi/ic_launcher_round.png" width="150">
+     <img src="https://github.com/inotia00/revanced-patches/blob/revanced-extended/src/main/resources/music/branding/afn-red/launchericon/xxxhdpi/ic_launcher_release.png" width="150">
+</p>
+
 ## 🧩 Patches v2.173.1
 
 ## 📅 5 May 2023
