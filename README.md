@@ -169,7 +169,7 @@ The official Patch bundle provided by ReVanced Extended and the community
 
 ### v2.173.1 | 05 May 2023
 <details>
-&nbsp;&nbsp; 
+    
 YouTube
 
 - Add <code>hide-live-chat-button</code> patch (for old layout)
@@ -184,4 +184,16 @@ YouTube
 - Refactor (settings): change default values
 - Refactor (hide-player-button-background): apply better patch method
 - Crowdin translation update <code>Arabic</code>, <code>Bengali</code>, <code>Bulgarian</code>, <code>Chinese Simplified</code>, <code>French</code>, <code>German</code>, <code>Greek</code>, <code>Indonesian</code>, <code>Italian</code>, <code>Japanese</code>, <code>Korean</code>, <code>Polish</code>, <code>Russian</code>, <code>Spanish</code>, <code>Turkish</code>, <code>Ukrainian</code>, <code>Vietnamese</code>
- </details>
+ 
+YouTube Music
+
+- Add <code>custom-branding-music-name</code> patch
+- Feat (custom-branding-music-afn-red): change icon path
+- Fix (custom-branding-music-mmt): use better patch description
+- Fix (enable-black-navbar): cannot switch off when amoled patch is included
+- Fix (share-button-hook): change the default downloader package name
+- Crowdin translation update <code>Brazilian</code>, <code>Indonesian</code>, <code>Korean</code>
+    
+ETC
+- Drop support for some YouTube versions
+</details>
