@@ -1,6 +1,6 @@
 ## 🧩 Patches v2.173.1
 
-### 📅 5 May 2023
+## 📅 5 May 2023
 
 The official Patch bundle provided by ReVanced Extended and the community
 
