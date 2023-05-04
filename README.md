@@ -168,23 +168,20 @@ The official Patch bundle provided by ReVanced Extended and the community
 ## 📜 Changelogs
 
 ### v2.173.1 | 05 May 2023
+<details>
 
 YouTube
 
-- Add custom-branding-icon-revancify-red patch
-- Add custom-branding-icon-revancify-blue patch
-- Add hide-live-chat-button patch (for old layout)
-- Add hide-navigation-label patch inotia00/ReVanced_Extended#894
-- Remove channel-whitelist patch inotia00/ReVanced_Extended#918
-- Remove custom-branding-icon-manual patch (as it is not an ideal method)
-- Remove custom-branding-icon-revancify patch
-- Feat(custom-branding-icon-afn-red): change icon path
-- Feat(custom-branding-icon-afn-blue): change icon path
-- Feat(hide-navigation-buttons): combined hide-create-button, hide-home-button, hide-shorts-button, hide-subscriptions-button, switch-create-notification patches into one
-- Feat(return-youtube-dislike): add support old layout
-- Fix(custom-branding-icon-mmt): use better patch description
-- Fix(hide-general-ads): Hide album card doesn't hide some album cards
-- Fix(sponsorblock): skip button in wrong location when fullscreen and comments visible
-- Refactor(settings): change default values
-- Refactor(hide-player-button-background): apply better patch method
-- Crowdin translation update <code>Arabic, Bengali, Bulgarian, Chinese Simplified, French, German, Greek, Indonesian, Italian, Japanese, Korean, Polish, Russian, Spanish, Turkish, Ukrainian, Vietnamese</code>
+- Add <code>hide-live-chat-button</code> patch (for old layout)
+- Add <code>hide-navigation-label</code> patch
+- Remove <code>channel-whitelist</code> patch
+- Feat (custom-branding-icon-afn-red): change icon path
+- Feat (hide-navigation-buttons): combined <code>hide-create-button</code>, <code>hide-home-button</code>, <code>hide-shorts-button</code>, <code>hide-subscriptions-button </code>, <code>switch-create-notification</code> patches into one
+- Feat (return-youtube-dislike): add support old layout
+- Fix (custom-branding-icon-mmt): use better patch description
+- Fix (hide-general-ads): <code>Hide album card</code> doesn't hide some album cards
+- Fix (sponsorblock): skip button in wrong location when fullscreen and comments visible
+- Refactor (settings): change default values
+- Refactor (hide-player-button-background): apply better patch method
+- Crowdin translation update <code>Arabic</code>, <code>Bengali</code>, <code>Bulgarian</code>, <code>Chinese Simplified</code>, <code>French</code>, <code>German</code>, <code>Greek</code>, <code>Indonesian</code>, <code>Italian</code>, <code>Japanese</code>, <code>Korean</code>, <code>Polish</code>, <code>Russian</code>, <code>Spanish</code>, <code>Turkish</code>, <code>Ukrainian</code>, <code>Vietnamese</code>
+ </details>
