@@ -162,6 +162,30 @@ The official Patch bundle provided by ReVanced Extended and the community
 
 ## 📜 Changelogs
 
+### v2.173.2 - 06 May 2023
+<details>
+    
+YouTube
+
+- Chore: update gradle and dependencies
+- Feat (youtube): add <code>disable-hdr-video </code> patch
+- Feat (youtube): custom branding icons can be set (CLI only)
+- Feat (youtube): remove dummy code
+- Feat (youtube/custom-seekbar-color): change the color of the last watched progress bar
+- (In feed: changeable via settings. in history / playlists: changeable via options.json)
+- Feat (youtube/hide-general-ads): hide ticket shelf in related videos
+- Feat (youtube/hide-navigation-buttons): add <code>Hide library</code> button settings
+- Feat (youtube/settings): re-add to patch list
+- Feat (youtube/translations): update translation <code>Arabic</code>, <code>Bulgarian</code>, <code>Chinese Traditional</code>, <code>French<code>, <code>Greek</code>, <code>Indonesian</code>, <code>Italian</code>, <code>Japanese</code>, <code>Korean</code>, <code>Polish</code>, <code>Russian</code>, <code>Spanish</code>, <code>Turkish</code>, <code>Vietnamese</code>
+    
+YouTube Music
+
+- Feat (music): custom branding icons can be set (CLI only)
+- Feat(music/settings): re-add to patch list
+- Feat(music/music-translations): update translation <code>French</code>, <code>Indonesian</code>, <code>Vietnamese</code> 
+    
+</details>
+
 ### v2.173.1 - 05 May 2023
 <details>
     
