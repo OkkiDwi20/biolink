@@ -182,8 +182,7 @@ YouTube Music
 
 - Feat (music): custom branding icons can be set (CLI only)
 - Feat(music/settings): re-add to patch list
-- Feat(music/music-translations): update translation <code>French</code>, <code>Indonesian</code>, <code>Vietnamese</code> 
-    
+- Feat(music/music-translations): update translation <code>French</code>, <code>Indonesian</code>, <code>Vietnamese</code>   
 </details>
 
 ### v2.173.1 - 05 May 2023
