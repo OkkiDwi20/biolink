@@ -7,11 +7,11 @@
      <img src="https://github.com/inotia00/revanced-patches/blob/revanced-extended/src/main/resources/music/branding/afn-red/launchericon/xxxhdpi/ic_launcher_release.png" width="150">
 </p>
 
-<h1 align="center">🧩 Patches v2.173.1</h1>
+<h1 align="center">🧩 Patches v2.173.2</h1>
 
 <div align="center">
     
-### 📅 5 May 2023
+### 📅 6 May 2023
 
 ##  
     
@@ -32,11 +32,7 @@ The official Patch bundle provided by ReVanced Extended and the community
 |:--------:|:--------------:|:-----------------:|
 | `bypass-ambient-mode-restrictions` | Bypass ambient mode restrictions in battery saver mode. | 18.16.39 |
 | `change-homepage` | Change home page to subscription feed. | 18.16.39 |
-| `custom-branding-icon-afn-blue` | Changes the YouTube launcher icon to Afn Blue. | 18.16.39 |
 | `custom-branding-icon-afn-red` | Changes the YouTube launcher icon to Afn Red. | 18.16.39 |
-| `custom-branding-icon-mmt` | Changes the YouTube launcher icon to MMT. | 18.16.39 |
-| `custom-branding-icon-revancify-blue` | Changes the YouTube launcher icon to Revancify Blue. | 18.16.39 |
-| `custom-branding-icon-revancify-red` | Changes the YouTube launcher icon to Revancify Red. | 18.16.39 |
 | `custom-branding-name` | Changes the YouTube launcher name to your choice (defaults to ReVanced Extended). | 18.16.39 |
 | `custom-double-tap-length` | Add 'double-tap to seek' value. | 18.16.39 |
 | `custom-seekbar-color` | Change seekbar color. | 18.16.39 |
@@ -44,6 +40,7 @@ The official Patch bundle provided by ReVanced Extended and the community
 | `default-video-quality` | Adds ability to set default video quality settings. | 18.16.39 |
 | `default-video-speed` | Adds ability to set default video speed settings. | 18.16.39 |
 | `disable-haptic-feedback` | Disable haptic feedback when swiping. | 18.16.39 |
+| `disable-hdr-video` | Disable HDR video.	| 18.16.39 |
 | `disable-landscape-mode` | Disable landscape mode when entering fullscreen. | 18.16.39 |
 | `disable-quic-protocol` | Disable CronetEngine's QUIC protocol. | 18.16.39 |
 | `disable-startup-shorts-player` | Disables playing YouTube Shorts when launching YouTube. | 18.16.39 |
@@ -113,6 +110,7 @@ The official Patch bundle provided by ReVanced Extended and the community
 | `patch-options` | Create an options.toml file. | all |
 | `protobuf-spoof` | Spoofs the protobuf to prevent playback issues. | 18.16.39 |
 | `return-youtube-dislike` | Shows the dislike count of videos using the Return YouTube Dislike API. | 18.16.39 |
+| `settings` | Applies mandatory patches to implement ReVanced settings into the application. | 18.16.39 |
 | `sponsorblock` | Integrates SponsorBlock which allows skipping video segments such as sponsored content. | 18.16.39 |
 | `spoof-app-version` | Tricks YouTube into thinking, you are running an older version of the app. One of the side effects also includes restoring the old UI. | 18.16.39 |
 | `swipe-controls` | Adds volume and brightness swipe controls. | 18.16.39 |
@@ -129,12 +127,8 @@ The official Patch bundle provided by ReVanced Extended and the community
 | `background-play` | Enables playing music in the background. | all |
 | `bitrate-default-value` | Set the audio quality to 'Always High' when you first install the app. | all |
 | `certificate-spoof` | Spoofs the YouTube Music certificate for Android Auto. | all |
-| `custom-branding-music-afn-blue` | Changes the YouTube Music launcher icon to Afn Blue. | all |
 | `custom-branding-music-afn-red` | Changes the YouTube Music launcher icon to Afn Red. | all |
-| `custom-branding-music-mmt` | Changes the YouTube Music launcher icon to MMT. | all |
 | `custom-branding-music-name` | Changes the Music launcher name to your choice (defaults to YTM Extended, ReVanced Music Extended). | all |
-| `custom-branding-music-revancify-blue` | Changes the YouTube Music launcher icon to Revancify Blue. | all |
-| `custom-branding-music-revancify-red` | Changes the YouTube Music launcher icon to Revancify Red. | all |
 | `disable-auto-captions` | Disable forced captions from automatically enabling in video player. | all |
 | `enable-black-navbar` | Sets the navigation bar color to black. | all |
 | `enable-color-match-player` | Matches the fullscreen player color with the minimized one. | all |
@@ -158,6 +152,7 @@ The official Patch bundle provided by ReVanced Extended and the community
 | `minimized-playback-music` | Enables minimized playback on Kids music. | all |
 | `music-microg-support` | Allows ReVanced Music to run without root and under a different package name with MicroG. | all |
 | `optimize-resource-music` | Remove unnecessary resources. | all |
+| `music-settings` | Adds settings for ReVanced to YouTube Music. | all |
 | `patch-options` | Create an options.toml file. | all |
 | `remember-video-quality` | Save the video quality value whenever you change the video quality. | all |
 | `share-button-hook` | Replace share button with external download button or sleep timer dialog. | all |
