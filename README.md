@@ -164,55 +164,56 @@ The official Patch bundle provided by ReVanced Extended and the community
 
 ### v2.173.2 - 06 May 2023
 <details>
-    
-YouTube
+  <summary>Click to expand</summary>
+
+#### YouTube
 
 - Chore: update gradle and dependencies
-- Feat (youtube): add <code>disable-hdr-video </code> patch
+- Feat (youtube): add `disable-hdr-video` patch
 - Feat (youtube): custom branding icons can be set (CLI only)
 - Feat (youtube): remove dummy code
-- Feat (youtube/custom-seekbar-color): change the color of the last watched progress bar
-- (In feed: changeable via settings. in history / playlists: changeable via options.json)
+- Feat (youtube/custom-seekbar-color): change the color of the last watched progress bar (In feed: changeable via settings. in history / playlists: changeable via options.json)
 - Feat (youtube/hide-general-ads): hide ticket shelf in related videos
-- Feat (youtube/hide-navigation-buttons): add <code>Hide library</code> button settings
+- Feat (youtube/hide-navigation-buttons): add `Hide library` button settings
 - Feat (youtube/settings): re-add to patch list
-- Feat (youtube/translations): update translation <code>Arabic</code>, <code>Bulgarian</code>, <code>Chinese Traditional</code>, <code>French<code>, <code>Greek</code>, <code>Indonesian</code>, <code>Italian</code>, <code>Japanese</code>, <code>Korean</code>, <code>Polish</code>, <code>Russian</code>, <code>Spanish</code>, <code>Turkish</code>, <code>Vietnamese</code>
+- Feat (youtube/translations): update translation `Arabic`, `Bulgarian`, `Chinese Traditional`, `French`, `Greek`, `Indonesian`, `Italian`, `Japanese`, `Korean`, `Polish`, `Russian`, `Spanish`, `Turkish`, `Vietnamese`
     
-YouTube Music
+#### YouTube Music
 
 - Feat (music): custom branding icons can be set (CLI only)
 - Feat(music/settings): re-add to patch list
-- Feat(music/music-translations): update translation <code>French</code>, <code>Indonesian</code>, <code>Vietnamese</code>   
+- Feat(music/music-translations): update translation `French`, `Indonesian`, `Vietnamese`   
 </details>
 
 ### v2.173.1 - 05 May 2023
 <details>
-    
-YouTube
+  <summary>Click to expand</summary>
 
-- Add <code>hide-live-chat-button</code> patch (for old layout)
-- Add <code>hide-navigation-label</code> patch
-- Remove <code>channel-whitelist</code> patch
+#### YouTube
+
+- Add `hide-live-chat-button` patch (for old layout)
+- Add `hide-navigation-label` patch
+- Remove `channel-whitelist` patch
 - Feat (custom-branding-icon-afn-red): change icon path
-- Feat (hide-navigation-buttons): combined <code>hide-create-button</code>, <code>hide-home-button</code>, <code>hide-shorts-button</code>, <code>hide-subscriptions-button </code>, <code>switch-create-notification</code> patches into one
+- Feat (hide-navigation-buttons): combined `hide-create-button`, `hide-home-button`, `hide-shorts-button`, `hide-subscriptions-button`, `switch-create-notification` patches into one
 - Feat (return-youtube-dislike): add support old layout
 - Fix (custom-branding-icon-mmt): use better patch description
-- Fix (hide-general-ads): <code>Hide album card</code> doesn't hide some album cards
+- Fix (hide-general-ads): `Hide album card` doesn't hide some album cards
 - Fix (sponsorblock): skip button in wrong location when fullscreen and comments visible
 - Refactor (settings): change default values
 - Refactor (hide-player-button-background): apply better patch method
-- Crowdin translation update <code>Arabic</code>, <code>Bengali</code>, <code>Bulgarian</code>, <code>Chinese Simplified</code>, <code>French</code>, <code>German</code>, <code>Greek</code>, <code>Indonesian</code>, <code>Italian</code>, <code>Japanese</code>, <code>Korean</code>, <code>Polish</code>, <code>Russian</code>, <code>Spanish</code>, <code>Turkish</code>, <code>Ukrainian</code>, <code>Vietnamese</code>
+- Crowdin translation update `Arabic`, `Bengali`, `Bulgarian`, `Chinese Simplified`, `French`, `German`, `Greek`, `Indonesian`, `Italian`, `Japanese`, `Korean`, `Polish`, `Russian`, `Spanish`, `Turkish`, `Ukrainian`, `Vietnamese`
  
-YouTube Music
+#### YouTube Music
 
-- Add <code>custom-branding-music-name</code> patch
+- Add `custom-branding-music-name` patch
 - Feat (custom-branding-music-afn-red): change icon path
 - Fix (custom-branding-music-mmt): use better patch description
 - Fix (enable-black-navbar): cannot switch off when amoled patch is included
 - Fix (share-button-hook): change the default downloader package name
-- Crowdin translation update <code>Brazilian</code>, <code>Indonesian</code>, <code>Korean</code>
+- Crowdin translation update `Brazilian`, `Indonesian`, `Korean`
     
-ETC
+#### ETC
     
 - Drop support for some YouTube versions
 </details>
